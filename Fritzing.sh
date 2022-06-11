@@ -1,5 +1,5 @@
 #!/bin/sh
-appname="Fritzing"
+appname="Fritzing PCB Development"
 # dirname=`dirname "${0}"`
 
 # new dirname procedure from Volker Kuhlmann
